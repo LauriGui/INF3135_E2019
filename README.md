@@ -49,7 +49,7 @@ Guy Francoeur
 
 Ce cours est basé sur les travaux d'Alexandre Blondin Massé, Professeur, que je rermercie pour sa générosité et sa collaboration. 
 
-+ [TIOBE Index for January 2019](https://www.tiobe.com/tiobe-index/ "Usage des langages de programmation")
++ [TIOBE Index (les langages de programmation)](https://www.tiobe.com/tiobe-index/ "Usage des langages de programmation")
 + [The C Programming Language - TIOBE Graph](https://www.tiobe.com/tiobe-index/c/ "Langage C")
 + [Makefile - Appendix A Quick Reference](https://www.gnu.org/software/make/manual/html_node/Quick-Reference.html#Quick-Reference)
 + [cplusplus.com REFERENCE](http://www.cplusplus.com/reference/ "cplusplus.com REFERENCE")
