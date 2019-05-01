@@ -108,19 +108,28 @@ suivantes :
 
 ## 4 - Fonctions
 
-Donnez d'abord le prototype, puis ensuite implémentez en C chacune des
+Donnez d'abord faire le prototype, puis ensuite implémentez en C chacune des
 fonctions suivantes :
 
-- Une fonction `somme` qui calcule la somme des éléments présents dans un
-  tableau d'entiers;
+- Une fonction `boucleAvant()` qui fait un `for(int i=0;i<x;++i)` avec un printf de `i`;
+- Une fonction `boucleApres()` qui fait un `for(int j=0;j<x;j++)` avec un printf de `j`;
+- Une fonction `racineCarreEntiere()` qui retourne la portion entière de la racine Carré d'un entier naturel;
+- Une fonction `lignecommande()` capable de traiter des arguments en provenance de la ligne de commande;
+- Une fonction `somme` qui calcule la somme des éléments présents dans un tableau d'entiers;
 - Une fonction `estTrie` qui retourne vrai si et seulement si les éléments d'un
   tableau d'entiers sont en ordre croissant;
 - Une fonction `elementPlusFrequent` qui calcule l'élément qui est répété le
   plus souvent dans un tableau d'entiers;
 - Une fonction `nombreOccurrences` qui calcule le nombre de fois qu'un
   caractère donné apparaît dans une chaîne;
-- Une fonction `boucleAvant()` qui fait un `for(int i;i<x;++i)` avec un printf de `i`;
-- Une fonction `boucleApres()` qui fait un `for(int j;j<x;j++)` avec un printf de `j`;
+
+Un retour sur les entiers naturels:
+
+N = { 0, 1, 2, ..., &infin; }
+
+&infin; = 2 <sup>64</sup> - 1
+
+
 
 ##### Q1. Quelle fonction est plus rapide entre `boucleAvant()` et `boucleApres()`? 
 ##### Q2. Est-ce que les résultats sont identiques? 
