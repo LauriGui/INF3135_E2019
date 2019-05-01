@@ -130,9 +130,10 @@ N = { 0, 1, 2, ..., &infin; }
 &infin; = 2 <sup>64</sup> - 1
 
 
-
 ##### Q1. Quelle fonction est plus rapide entre `boucleAvant()` et `boucleApres()`? 
-##### Q2. Est-ce que les résultats sont identiques? 
+##### Q2. Est-ce que les résultats sont identiques?
+##### Q3. Quel est la racine de 4294967296? temps requis?
+##### Q4. Quel est la racine de 17179869184? temps requis?
 
 N'oubliez pas d'inclure dans votre fonction main quelques tests qui démontrent
 que votre fonction est correctement implémentée. Chaque fois que vous avez
