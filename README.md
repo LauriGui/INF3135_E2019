@@ -11,7 +11,7 @@
 - TP1 : 18 Juin 2019
 - TP2 : 26 Juillet 2019
 
-`Une feuille de note personnel est permise lors des examens.`
+`Une feuille de notes personnel est permise lors des examens.`
 
 #### Cours:
 - Chapitre 1 introduction
