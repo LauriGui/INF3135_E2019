@@ -4,6 +4,15 @@
 
 ### Matériel du cours INF3135 édition été 2019
 
+### Dates importantes:
+
+- Examen #1 : 11 Juin 2019
+- Examen #2 : 23 Juin 2019
+- TP1 : 18 Juin 2019
+- TP2 : 26 Juillet 2019
+
+`Une feuille de note personnel est permise lors des examens.`
+
 #### Cours:
 - Chapitre 1 introduction
 - Chapitre 2 base du langage C partie 1
