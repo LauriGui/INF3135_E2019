@@ -6,8 +6,8 @@
 
 ### Dates importantes:
 
-- Examen #1 : 11 Juin 2019
-- Examen #2 : 23 Juin 2019
+- Examen #1 intra : 11 Juin 2019 17h30 durée 3h
+- Examen #2 final : 23 Juillet 2019 17h30 durée 3h
 - TP1 : 18 Juin 2019
 - TP2 : 26 Juillet 2019
 
