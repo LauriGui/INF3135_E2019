@@ -8,8 +8,8 @@
 
 - Examen #1 intra : 11 Juin 2019 17h30 durée 3h
 - Examen #2 final : 23 Juillet 2019 17h30 durée 3h
-- TP1 : 18 Juin 2019
-- TP2 : 26 Juillet 2019
+- TP1 remise : 18 Juin 2019 à 00h01
+- TP2 remise : 26 Juillet 2019 à 23h59
 
 `Une feuille de notes personnel est permise lors des examens.`
 
