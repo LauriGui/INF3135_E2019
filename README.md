@@ -13,6 +13,9 @@
 
 `Une feuille de notes personnel est permise lors des examens.`
 
+#### Travaux pratiques
+- [ici](https://github.com/guyfrancoeur/INF3135_E2019_TP)
+
 #### Cours:
 - Chapitre 1 introduction
 - Chapitre 2 base du langage C partie 1
