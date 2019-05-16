@@ -6,8 +6,8 @@
 
 ### Dates importantes:
 
-- Examen #1 intra : 11 Juin 2019 17h30 durée 3h
-- Examen #2 final : 23 Juillet 2019 17h30 durée 3h
+- Examen #1 intra : 11 Juin 2019 17h30 durée 3h, local SH-2420
+- Examen #2 final : 23 Juillet 2019 17h30 durée 3h, local SH-2420
 - TP1 remise : 18 Juin 2019 à 00h01
 - TP2 remise : 26 Juillet 2019 à 23h59
 
