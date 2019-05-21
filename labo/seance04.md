@@ -54,10 +54,8 @@ Rang  Nom           Pays  Population
 
 Plus précisément, vous devez respecter les contraintes suivantes:
 
-- Le rang doit occuper 4 colonnes en ajoutant des zéros en préfixe si
-  nécessaire;
-- Le nom de la ville doit occuper au plus 15 colonnes (il faut couper le mot
-  s'il y a un excédent);
+- Le rang doit occuper 4 colonnes en ajoutant des zéros en préfixe si nécessaire;
+- Le nom de la ville doit occuper au plus 15 colonnes (il faut couper le mot s'il y a un excédent);
 - Le pays doit occuper exactement 4 colonnes aussi (il faut couper sinon);
 - La population doit être alignée à droite.
 
@@ -112,10 +110,17 @@ Plus précisément, vous devez respecter les contraintes suivantes:
   projet comme paramètre.  Le même paramètre sera utilisé comme nom de `répertoire` pour héberger
   votre dépôt local.   Le script doit créer le nouveau répertoire  dans votre `$HOME`.
   Le nouveau projet sera créé dans votre gestionnaire de source préféré entre GitLab ou GitHub.
-  
-+ Bonus. Vous devez refaire la fonction printf() disponible dans la librairie standard <stdio.h>.  Votre
-nouvelle fonction doit idéalement reproduire le plus fidèlement possible ce que la fonction `printf()` offre
-comme fonctionnalités. 
+  `
++ Extra. Vous devez refaire la fonction printf() qui est disponible dans la librairie standard `<stdio.h>`.
+Votre nouvelle fonction doit idéalement reproduire le plus fidèlement possible ce que la fonction `printf()`
+offre comme fonctionnalités.
+
++ Extra. Vous devez présenter une version améliorée de la fonction sqrt(n) que vous avez développée lors d'un laboratoire
+précédent.  Ceci afin d'impressionner et obtenir une promotion pour un emploi très convoité. Cette version doit être 
+fonctionnelle et démontrer une amélioration par rapport à la version dite `naïve`.
+Votre programme sera nommé `sqrt.c` et produira l'exécutable `sqrt`. Vous devez traiter les nombres N = Naturels.  Le patron
+n'est pas un programmeur.  Vous avez 4 minutes pour le convaincre que vous êtes la personne idéale.  Rappelez-vous les conseils 
+de votre enseignant.
  
 ### FIN.
 ---
