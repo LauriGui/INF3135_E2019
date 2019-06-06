@@ -215,6 +215,10 @@ $
     indique les commandes à entrer dans une boîte sur la page d'accueil vers le
     bas.)
 
+    Si vous utilisez le protocole SSH vous devrez probablement vous créer une clé SSH.
+    Voir la [documentation](https://docs.gitlab.com/ee/ssh/) de GitLab.
+
+
 #### Étape 5.6
 
 - Finalement, taper les commandes :
@@ -358,6 +362,9 @@ $
     indique les commandes à entrer dans une boîte sur la page d'accueil vers le
     bas.)
 
+    Si vous utilisez le protocole SSH vous devrez probablement vous créer une clé SSH.
+    Voir la [documentation](https://help.github.com/en/enterprise/2.16/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) de GitHub.
+
 #### Étape 6.6
 
 - Finalement, taper les commandes :
@@ -378,6 +385,21 @@ $
 
 - La dernière commande garde en cache votre `usager` et `mot de password` pour une durée d'une heure. C'est plutôt utile non?
 
+#### Note sur la creation du dépôt
+
+   GitHub diffère un peu de GitLab sur ce point.
+
+   Soit vous créez votre dépôt par le site web de GitHub
+      OU
+   Soit vous utilisez la commande suivante:
+
+   ```shell
+   $ curl -u 'username' https://api.github.com/user/repos -d '{"name":"MON REPO", "private": true, "description":"MA DESCRIPTION"}'
+   ```
+  
+   Notez que dans les deux cas vous devez quand même initialiser (ou clôner) votre dépôt sur votre environnement
+   de travail local.
+ 
 ---
 
 ##### Auteur Guy Francoeur
