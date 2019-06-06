@@ -139,7 +139,7 @@ et qui retourne le maximum entre les nombres `a` et `b`, peu importe leur type.
 
 ---
 
-## 5 Unions (en action)
+## 5 - Unions (en action)
 
 Vous devez implémenter le code suivant dans un .h et faire un programme qui l'inclura en plus de répondre aux questions qui suivent: 
 
