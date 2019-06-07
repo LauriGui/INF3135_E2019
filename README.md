@@ -66,6 +66,7 @@ Ce cours est basé sur les travaux d'Alexandre Blondin Massé, Professeur, que j
 + [Makefile - Appendix A Quick Reference](https://www.gnu.org/software/make/manual/html_node/Quick-Reference.html#Quick-Reference)
 + [cplusplus.com REFERENCE](http://www.cplusplus.com/reference/ "cplusplus.com REFERENCE")
 + [101 commandes indispensables sous linux](https://buzut.fr/101-commandes-indispensables-sous-linux/ "101 commandes indispensables sous linux")
++ [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf "référence pour le C++, niveau expert")
 + [Politiques et règlements du département d'informatique](http://info.uqam.ca/politiques/)
 
 ----
