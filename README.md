@@ -27,7 +27,9 @@
 - Chapitre 8 scripts, bash et Linux
 - Chapitre 9 librairie et bibliothèques
 - Chapitre 10 approches programmatives
-- Chapitre 11 type générique et pointeurs de fonction
+- Chapitre 11 tests
+- Chapitre 12 type générique et pointeurs de fonction
+- Chapitre 13 mémoire (son organisation en C)
 
 #### Laboratoires:
 - séance 1
