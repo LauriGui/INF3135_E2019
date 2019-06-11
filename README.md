@@ -11,7 +11,7 @@
 - TP1 remise : 18 Juin 2019 à 00h01
 - TP2 remise : 26 Juillet 2019 à 23h59
 
-`Une feuille de notes personnel est permise lors des examens.`
+`Une feuille 8.5" x 11" de notes personnel est permise lors des examens.`
 
 #### Travaux pratiques
 - [ici](https://github.com/guyfrancoeur/INF3135_E2019_TP)
