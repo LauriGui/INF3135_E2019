@@ -47,7 +47,7 @@ typedef struct Queue_s {
   int *elements;
 } Queue_t;
 
-Queue_t * initQ(int maxElements);
+extern Queue_t * initQ(int maxQueueSize);
 extern void dequeueQ(Queue_t *Q);
 extern int frontQ(Queue_t *Q);
 extern void enqueueQ(Queue_t *Q,int element);
