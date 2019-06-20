@@ -51,7 +51,7 @@ extern Queue_t * initQ(int maxQueueSize);
 extern void dequeueQ(Queue_t *Q);
 extern int frontQ(Queue_t *Q);
 extern void enqueueQ(Queue_t *Q,int element);
-extern void deleteQ(Queue_t Q*); // finir par ceci
+extern void deleteQ(Queue_t *Q); // finir par ceci (bien vu Fanny)
 ```
 
 + Dans cet exercice, nous voulons prendre de bonne habitude, et tenter de réaliser un `type abstrait de données` de façon autonome.
