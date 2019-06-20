@@ -1,4 +1,4 @@
-# Séance 6: Type abstrait de données (TAD ou _ADT_), et modularité
+# Séance 6: Type abstrait de données et modularité
 
 **Note** : (_facultatif_) S'il y a des questions dans ce labo, répondez y dans un fichier nommé `./labo/reponse-labo.md`. Le 
 fichier doit être dans un format `Markdown`. Utilisez le projet `inf3135-e2019` pour déposer le fichier `./labo/reponse-labo.md`
@@ -47,11 +47,11 @@ typedef struct Queue_s {
   int *elements;
 } Queue_t;
 
-Queue * initQ(int maxElements);
-void dequeueQ(Queue_t *Q);
-int frontQ(Queue_t *Q);
-void enqueueQ(Queue_t *Q,int element);
-void deleteQ(Queue_t Q*); // finir par ceci
+Queue_t * initQ(int maxElements);
+extern void dequeueQ(Queue_t *Q);
+extern int frontQ(Queue_t *Q);
+extern void enqueueQ(Queue_t *Q,int element);
+extern void deleteQ(Queue_t Q*); // finir par ceci
 ```
 
 + Dans cet exercice, nous voulons prendre de bonne habitude, et tenter de réaliser un `type abstrait de données` de façon autonome.
@@ -78,12 +78,12 @@ typedef struct {
   int *data;     // array of integers we're storing
 } Vector_t;
 
-void initV(Vector_t *vector, int capacity);
-void appendV(Vector_t *vector, int value);
-int getV(Vector_t *vector, int index);
-void setV(Vector_t *vector, int index, int value);
-void extendV(Vector_t *vector);
-void freeV(Vector_t *vector);
+extern void initV(Vector_t *vector, int capacity);
+extern void appendV(Vector_t *vector, int value);
+extern int getV(Vector_t *vector, int index);
+extern void setV(Vector_t *vector, int index, int value);
+static void extendV(Vector_t *vector);
+extern void freeV(Vector_t *vector);
 ```
 
 Questions :
