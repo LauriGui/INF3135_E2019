@@ -19,6 +19,7 @@ divisant les fichiers dans des répertoires.
 
 - Une pile contient des objets insérés et retirés selon le principe dernier inséré, premier sorti (last-in-first-out LIFO);
 - Les objets peuvent être insérés à tout moment, mais seulement le dernier (le plus récemment inséré) peut être retiré;
+- La _stack_ est ordonné;
 
 ```c
 // stack.h
@@ -27,11 +28,11 @@ divisant les fichiers dans des répertoires.
 //je vais vérifier les solutions
 ```
 
-Q1. Quel est la différence entre les mots anglais suivant : stack vs pile vs heap ?
-Q2. Produire un fichier entête (.h).
-Q3. Produire un fichier source (.c).
-Q4. Produire un fichier test_stack.c qui est dépendant des deux premiers.
-Q5. Produire un fichier Makefile pour automatiser certaines tâches.
++ Q1. Quel est la différence entre les mots anglais suivant : stack vs pile vs heap ?
++ Q2. Produire un fichier entête (.h).
++ Q3. Produire un fichier source (.c).
++ Q4. Produire un fichier test_stack.c qui est dépendant des deux premiers.
++ Q5. Produire un fichier Makefile pour automatiser certaines tâches.
 
 ## 2 - Implémentation d'une file (*queue*)
 
@@ -58,8 +59,9 @@ void deleteQ(Queue_t Q*); // finir par ceci
 + Il n'y a pas de mauvaise réponse à priori.
 + Assurez-vous de gérer correctement la mémoire (sans fuite de mémoire)!
 
-Q1.  Quelle est la difficulté que vous avez rencontrée ?
-Q2.  Avez-vous des fuites de mémoire ou des accès illicites à des zones mémoires (*out of bounds*) ?
+Questions:
++ Q1.  Quelle est la difficulté que vous avez rencontrée ?
++ Q2.  Avez-vous des fuites de mémoire ou des accès illicites à des zones mémoires (*out of bounds*) ?
 
 ## 3 - Implémenter un Array Dynamique (*Vector*)
 
@@ -84,8 +86,9 @@ void extendV(Vector_t *vector);
 void freeV(Vector_t *vector);
 ```
 
-Q1. Quelle est la difficulté que vous avez rencontrée ?
-Q2. Avez-vous des fuites de mémoire ou des accès illicites à des zones mémoires (*out of bounds*) ?
-Q3. Avez-vous eu recours a internet ou des exemples pour compléter l'exercice ?
+Questions :
++ Q1. Quelle est la difficulté que vous avez rencontrée ?
++ Q2. Avez-vous des fuites de mémoire ou des accès illicites à des zones mémoires (*out of bounds*) ?
++ Q3. Avez-vous eu recours a internet ou des exemples pour compléter l'exercice ?
 
 ## 4. Bonus 
