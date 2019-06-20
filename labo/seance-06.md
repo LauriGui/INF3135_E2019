@@ -1,4 +1,4 @@
-# Séance 6: 
+# Séance 6: Type abstrait de données (TAD ou _ADT_), et modularité
 
 **Note** : (_facultatif_) S'il y a des questions dans ce labo, répondez y dans un fichier nommé `./labo/reponse-labo.md`. Le 
 fichier doit être dans un format `Markdown`. Utilisez le projet `inf3135-e2019` pour déposer le fichier `./labo/reponse-labo.md`
