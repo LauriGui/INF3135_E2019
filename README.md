@@ -67,6 +67,7 @@ Ce cours est basé sur les travaux d'Alexandre Blondin Massé, Professeur, que j
 + [The C Programming Language - TIOBE Graph](https://www.tiobe.com/tiobe-index/c/ "Langage C")
 + [Makefile - Appendix A Quick Reference](https://www.gnu.org/software/make/manual/html_node/Quick-Reference.html#Quick-Reference)
 + [cplusplus.com REFERENCE](http://www.cplusplus.com/reference/ "cplusplus.com REFERENCE")
++ [The linux command line](http://www.linuxcommand.org/tlcl.php "The linux command line")
 + [101 commandes indispensables sous linux](https://buzut.fr/101-commandes-indispensables-sous-linux/ "101 commandes indispensables sous linux")
 + [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf "référence pour le C++, niveau expert")
 + [Politiques et règlements du département d'informatique](http://info.uqam.ca/politiques/)
